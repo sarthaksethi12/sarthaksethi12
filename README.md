@@ -70,3 +70,5 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthaksethi12&show_icons=true&theme=react&layout=compact&hide_title=true)](https://github.com/sarthaksethi12)|[![Sarthak's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=sarthaksethi12&theme=react&hide_border=true)](https://github.com/sarthaksethi12)
 |[![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=sarthaksethi12&theme=react&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/sarthaksethi12)
 
+## Visits:
+  <img src="https://profile-counter.glitch.me/sarthaksethi12/count.svg" />

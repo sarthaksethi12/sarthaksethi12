@@ -3,14 +3,6 @@
   
 ## Connect with me:
 <p align="left">
- <a href="mailto:sarthaksethi12@gmail.com" target="blank"
-    ><img
-      align="center"
-      src="https://github.com/shahbajjamil/Social-Meadia-Icons/blob/master/Icons-logos/gmail.png"
-      alt="Sarthak Sethi"
-      height="30"
-      width="40"
-  /></a>
   <a href="https://twitter.com/sarthaksethi94" target="blank"
     ><img
       align="center"

@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Sarthak Sethi 👋 
-  
+<h1>Hi 👋, I'm Sarthak!</h1>
+- 📫Reach me **sarthaksethi12@gmail.com**
   
 ## Connect with me:
 <p align="left">
